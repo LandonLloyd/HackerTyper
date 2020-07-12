@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+#display{
+    height: auto;
+    background-color: black;
+    font-family: Righteous;
+    letter-spacing: 0.5em;
+}
+
+#textArea{
+    color: green;
+}
+#start{
+    color: green;
+    background-color: black;
+    text-align: center;
+    padding-bottom: 10px;
+}
